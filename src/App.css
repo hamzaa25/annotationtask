@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.image-marker {
+  width: 60%;
+}
+
+.markerInfo {
+  color: rgb(0, 0, 0);
+  text-align: left !important;
+  margin-left: 22%;
+  margin-top: 10px;
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
