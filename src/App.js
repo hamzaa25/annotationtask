@@ -1,6 +1,5 @@
 import React, { useState, Component} from "react";
 import './App.css';
-import URLimage from './components/URLimage'
 import ImageMarker, { Marker, MarkerComponentProps } from 'react-image-marker';
 
 
